@@ -22,5 +22,8 @@
   "homepage": "https://github.com/Wang-zhetao/Cheese-ui#readme",
   "dependencies": {
     "vue": "^2.6.12"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4"
   }
 }
