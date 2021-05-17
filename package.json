@@ -1,0 +1,23 @@
+{
+  "name": "cheese",
+  "version": "0.0.1",
+  "description": "这是一个Vue UI框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wang-zhetao/Cheese-ui.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "KingWang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wang-zhetao/Cheese-ui/issues"
+  },
+  "homepage": "https://github.com/Wang-zhetao/Cheese-ui#readme"
+}
