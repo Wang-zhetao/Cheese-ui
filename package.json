@@ -21,10 +21,14 @@
   },
   "homepage": "https://github.com/Wang-zhetao/Cheese-ui#readme",
   "dependencies": {
-    "vue": "^2.6.12"
+    "vue": "^2.6.12",
+    "vue-hot-reload-api": "^2.3.4"
   },
   "devDependencies": {
-    "chai": "^4.3.4"
+    "@vue/component-compiler-utils": "^3.2.0",
+    "chai": "^4.3.4",
+    "sass": "^1.32.13",
+    "vue-template-compiler": "^2.6.12"
   },
   "alias": {
     "vue": "./node_modules/vue/dist/vue.common.js"
